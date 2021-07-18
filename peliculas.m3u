@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF: tvg-chno="01",La Guerra del Mañana
+#EXTINF:02:18:06 tvg-chno="01",La Guerra del Mañana
 
 https://firebasestorage.googleapis.com/v0/b/peliculas2-c8698.appspot.com/o/La%20Guerra%20del%20Ma%C3%B1ana.mp4?alt=media&token=7188bc32-c1ed-4d32-b5d2-ed1c4b66741d
 
-#EXTINF: tvg-chno="02",Espiral
+#EXTINF:01:33:06 tvg-chno="02",Espiral
 
 https://firebasestorage.googleapis.com/v0/b/peliculas2-c8698.appspot.com/o/Espiral%201080p.mp4?alt=media&token=ae12810b-e6a5-483e-a982-1e49b1e6bfda
 
-#EXTINF: tvg-chno="03",Space jam 2
+#EXTINF:01:55:28 tvg-chno="03",Space jam 2
 
 https://firebasestorage.googleapis.com/v0/b/peliculas2-c8698.appspot.com/o/Space%20Jam%201080p.mp4?alt=media&token=1a3af42f-5242-4e35-b810-0710fffc3412
